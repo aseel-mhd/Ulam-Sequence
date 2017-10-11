@@ -1,5 +1,5 @@
 /*
- * CIS*2910 - Assignment 1, Question 10
+ * 
  *
  *
  */
@@ -10,7 +10,7 @@ import java.io.InputStreamReader; //turns the byte streams to character streams
 
 /**
  *
- * @author Aseel Mohamed, Student No.: 0955816
+ * @author Aseel Mohamed
  */
 public class Ulam {  
 
