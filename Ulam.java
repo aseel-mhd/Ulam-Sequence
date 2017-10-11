@@ -51,3 +51,4 @@ public class Ulam {
         System.out.println("The Ulam number is: " + array[userInput - 1]); 
     }
 }
+"# Ulam-Sequence" 
